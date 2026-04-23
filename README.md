@@ -75,6 +75,6 @@ On first run, grant Accessibility access in System Settings so the app can inter
 
 ## Version
 
-Version 1.0
+Version 0.1.0
 
 Vibecoded by Philip A. Kiulpekidis.

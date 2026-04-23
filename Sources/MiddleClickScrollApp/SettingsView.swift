@@ -168,7 +168,7 @@ struct SettingsView: View {
     private var footer: some View {
         HStack {
             Spacer()
-            Text("Version 1.0  •  Vibecoded by Philip A. Kiulpekidis")
+            Text("Version 0.1.0  •  Vibecoded by Philip A. Kiulpekidis")
                 .font(.caption)
                 .foregroundStyle(.secondary)
                 .multilineTextAlignment(.trailing)
