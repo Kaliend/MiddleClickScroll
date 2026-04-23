@@ -1,5 +1,7 @@
 # MiddleClickScroll
 
+Windows-style middle-click auto-scroll for macOS.
+
 MiddleClickScroll brings Windows-style middle-click auto-scroll to macOS.
 
 Press the middle mouse button once to enter auto-scroll mode, move the pointer up or down to scroll smoothly, and click again to stop. The app includes a configurable scroll engine, a global overlay indicator, a menu bar item, optional launch-at-login, and a DMG builder for distribution.
